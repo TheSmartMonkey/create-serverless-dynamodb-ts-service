@@ -1,7 +1,7 @@
 {
   "name": "serverless-ts-service",
   "version": "1.0.0",
-  "description": "Template of a simple serverless ts api service with dynamodb",
+  "description": "Template of a serverless typescript api service with dynamodb",
   "author": "TheSmartMonkey",
   "main": "serverless.ts",
   "scripts": {

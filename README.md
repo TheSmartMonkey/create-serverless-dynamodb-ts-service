@@ -1,11 +1,11 @@
-# Serverless simple typescript service template
+# Serverless dynamodb typescript service template
 
-Template of a simple serverless typescript api service with dynamodb
+Template of a serverless typescript api service with dynamodb
 
 ## Installation
 
 ```bash
-npx degit https://github.com/TheSmartMonkey/create-serverless-simple-ts-service serverless-ts-service
+npx degit https://github.com/TheSmartMonkey/create-serverless-dynamodb-ts-service serverless-ts-service
 ```
 
 Changes to be done
